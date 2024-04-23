@@ -1,0 +1,9 @@
+#include "imports/stdlib.fc";
+
+int hello_world() method_id {
+  return 138766332635690182128803708988288035940;
+}
+
+() recv_internal(int my_balance, int msg_value, cell in_msg_full, slice in_msg_body) impure {
+
+}
